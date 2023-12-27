@@ -1,4 +1,5 @@
-Hi 👋 My name is Adib Zikri
+Hi 👋
+My name is Adib Zikri
 ===========================
 
 どーも はじめまして
