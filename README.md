@@ -14,7 +14,7 @@ Never give up
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
 * 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
 * 🧠  I'm learning coding using language C++ (for now)
-* 🤝  I'm open to collaborating on everyone that contact me
+* 🤝  Love to learn about Japan!
 * ⚡  Remember that Allah is always with us!
 
 ### Skills
