@@ -5,6 +5,8 @@ My name is Adib Zikri
 どーも はじめまして
 ----------
 
+"C:\Users\ASUS TUF GAMING\Downloads\photo_2023-12-27_15-17-40.jpg"
+
 Never back down  
 Never give up
 
