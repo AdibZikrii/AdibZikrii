@@ -5,6 +5,9 @@ My name is Adib Zikri
 どーも はじめまして
 ----------
 
+![photo_2023-12-27_15-17-40](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/8d302439-161d-4951-884e-fbe2b11b2f64)
+
+
 
 Never back down  
 Never give up
