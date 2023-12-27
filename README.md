@@ -7,7 +7,7 @@ Hi 👋 My name is Adib Zikri
 Never back down ! Never give up
 
 * 🌍  I'm from Terengganu
-* 🖥️  See my portfolio at [Github Profile](http://https://github.com/AdibZikrii)
+* 🖥️  Feel free to see my [Github Profile](http://https://github.com/AdibZikrii)
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
 * 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
 * 🧠  I'm learning coding using language C++
