@@ -4,7 +4,8 @@ Hi 👋 My name is Adib Zikri
 どーも はじめまして
 ----------
 
-Never back down ! Never give up
+Never back down  
+Never give up
 
 * 🌍  I'm from Terengganu
 * 🖥️  Feel free to see my [Github Profile](http://https://github.com/AdibZikrii)
