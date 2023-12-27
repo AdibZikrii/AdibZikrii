@@ -1,13 +1,10 @@
-Hi 👋
-My name is Adib Zikri
+HI 👋
 ===========================
 
 どーも はじめまして
 ----------
 
-![photo_2023-12-27_15-17-40](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/8d302439-161d-4951-884e-fbe2b11b2f64)
-
-
+![photo_2023-12-27_15-24-13](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/b3ec9842-2bc0-4709-8f71-7651a2abe7f0)
 
 Never back down  
 Never give up
