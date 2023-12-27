@@ -13,7 +13,7 @@ Never give up
 * 🖥️  Feel free to see my [Github Profile](http://https://github.com/AdibZikrii)
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
 * 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
-* 🧠  I'm learning coding using language C++
+* 🧠  I'm learning coding using language C++ (for now)
 * 🤝  I'm open to collaborating on everyone that contact me
 * ⚡  Remember that Allah is always with us!
 
