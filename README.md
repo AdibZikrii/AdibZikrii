@@ -4,7 +4,7 @@ HI 👋
 どーも はじめまして
 ----------
 
-![photo_2023-12-27_15-24-13](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/b3ec9842-2bc0-4709-8f71-7651a2abe7f0)
+![photo_2023-12-27_15-24-13(1)](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/1ac6ac57-a24d-49e8-9494-a84e23ab9958)
 
 Never back down  
 Never give up
