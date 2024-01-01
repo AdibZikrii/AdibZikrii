@@ -17,7 +17,9 @@ Never give up
 * ⚡  Remember that Allah is always with us!
 
 
-Project:
+* ⚡  Remember that Allah is always with us!
+* * ⚡  Remember that Allah is always with us!
+
 ⭐ Programming Technique 1
 ⭐ Technology and Information System
 ⭐ Digital Logic
