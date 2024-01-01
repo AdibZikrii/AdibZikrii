@@ -18,10 +18,10 @@ Never give up
 
 
 Project:
-⭐ Programming Technique 1
-⭐ Technology and Information System
-⭐ Digital Logic
-⭐ Discrete Structre
+*⭐ Programming Technique 1
+*⭐ Technology and Information System
+*⭐ Digital Logic
+*⭐ Discrete Structre
 
 ### Skills
 
