@@ -16,6 +16,13 @@ Never give up
 * 🤝  Love to learn about Japan!
 * ⚡  Remember that Allah is always with us!
 
+
+Project:
+⭐ Programming Technique 1
+⭐ Technology and Information System
+⭐ Digital Logic
+⭐ Discrete Structre
+
 ### Skills
 
 <p align="left">
