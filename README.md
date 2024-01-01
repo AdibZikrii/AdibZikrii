@@ -23,7 +23,6 @@ Never give up
 * ⭐ Digital Logic
 * ⭐ Discrete Structre
 
-* 
 
 ### Skills
 
