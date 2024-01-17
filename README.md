@@ -28,6 +28,9 @@ Never give up
 
 📜Certificate
 --------------
+* 🧫SPM 5A 4B (1A+ 3A 1A- 4B+)
+* 🧫Foundation CGPA 3.91
+* 🧫MUET 4.0
 
 
 
