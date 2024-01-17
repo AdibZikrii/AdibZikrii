@@ -16,10 +16,23 @@ Never give up
 * 🤝  Love to learn about Japan!
 * ⚡  Remember that Allah is always with us!
 
+📖Education
+-----------
+* 🔘Sekolah Menengah Sains Setiu (SAIS) 
+  -Sijil Pelajaran Malaysia (SPM) | 2017-2021
+* 🔘Kolej Mara Kuala Nerang
+  -Asasu Kejuruterann dan Teknologi | 2022-2023
+* 🔘Universiti Teknologi Malaysia
+  -Sarjana Muda Sains Komputer (Kejuruteraan Data) Dengan Kepujian | 2023-Now
+  
+
+📜Certificate
+--------------
+
 
 
 Semester 1 Courses:
-===========================
+-------------------
 *  Programming Technique 1
 *  Technology and Information System
 *  Digital Logic
