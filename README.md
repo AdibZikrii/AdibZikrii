@@ -18,7 +18,7 @@ Never give up
 
 📖Education
 -----------
-* 🔘Sekolah Menengah Sains Setiu (SAIS) 
+* Sekolah Menengah Sains Setiu (SAIS) 
   -Sijil Pelajaran Malaysia (SPM) | 2017-2021
 * 🔘Kolej Mara Kuala Nerang
   -Asasu Kejuruterann dan Teknologi | 2022-2023
