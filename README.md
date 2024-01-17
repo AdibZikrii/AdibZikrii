@@ -18,7 +18,7 @@ Never give up
 
 
 
-Semester 1:
+Semester 1 Courses:
 *  Programming Technique 1
 *  Technology and Information System
 *  Digital Logic
