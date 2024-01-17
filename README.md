@@ -34,13 +34,13 @@ Never give up
 
 
 
-Semester 1 Courses:
--------------------
-*  Programming Technique 1
-*  Technology and Information System
-*  Digital Logic
-*  Discrete Structre
-*  Integrity and Anti-Corruption
+✏️ Semester 1 Courses:
+---------------------
+*  💻 Programming Technique 1
+*  📡 Technology and Information System
+*  📱 Digital Logic
+*  📉 Discrete Structre
+*  ⚖️ Integrity and Anti-Corruption 
 
 
 ### Skills
