@@ -18,12 +18,12 @@ Never give up
 
 📖Education
 -----------
-* Sekolah Menengah Sains Setiu (SAIS) 
-  -Sijil Pelajaran Malaysia (SPM) | 2017-2021
+* 🔘Sekolah Menengah Sains Setiu (SAIS) 
+  - Sijil Pelajaran Malaysia (SPM) | 2017-2021
 * 🔘Kolej Mara Kuala Nerang
-  -Asasu Kejuruterann dan Teknologi | 2022-2023
+  - Asasu Kejuruterann dan Teknologi | 2022-2023
 * 🔘Universiti Teknologi Malaysia
-  -Sarjana Muda Sains Komputer (Kejuruteraan Data) Dengan Kepujian | 2023-Now
+  - Sarjana Muda Sains Komputer (Kejuruteraan Data) Dengan Kepujian | 2023-Now
   
 
 📜Certificate
