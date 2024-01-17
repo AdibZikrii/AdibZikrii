@@ -24,6 +24,8 @@ Never give up
   - Asasu Kejuruterann dan Teknologi | 2022-2023
 * 🔘Universiti Teknologi Malaysia
   - Sarjana Muda Sains Komputer (Kejuruteraan Data) Dengan Kepujian | 2023-Now
+
+
   
 
 📜Certificate
@@ -34,6 +36,8 @@ Never give up
 
 
 
+
+
 ✏️ Semester 1 Courses:
 ---------------------
 *  💻 Programming Technique 1
@@ -41,6 +45,8 @@ Never give up
 *  📱 Digital Logic
 *  📉 Discrete Structre
 *  ⚖️ Integrity and Anti-Corruption 
+
+
 
 
 ### Skills
