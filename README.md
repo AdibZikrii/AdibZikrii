@@ -18,11 +18,12 @@ Never give up
 
 
 
-Project:
+Semester 1:
 *  Programming Technique 1
 *  Technology and Information System
 *  Digital Logic
 *  Discrete Structre
+*  Integrity and Anti-Corruption
 
 
 ### Skills
