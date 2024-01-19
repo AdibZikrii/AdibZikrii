@@ -10,6 +10,7 @@ Never back down
 Never give up
 
 * 🌍  I'm from Terengganu
+* 👾  Feel free to see my other site [not done yet](https://music.youtube.com/)
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
 * 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
 * 🧠  I'm learning coding using language C++ (for now)
