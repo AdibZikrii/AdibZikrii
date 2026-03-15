@@ -13,7 +13,6 @@ Never give up
 * 👾  Feel free to see my other [Eportfolio](https://adibzikrii.github.io/)
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
 * 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
-* 🧠  I'm learning coding using language C++ (for now)
 * 🤝  Love to learn about Japan!
 * ⚡  Remember that Allah is always with us!
 
@@ -37,15 +36,6 @@ Never give up
 
 
 
-
-
-✏️ Semester 1 Courses:
----------------------
-*  💻 Programming Technique 1
-*  📡 Technology and Information System
-*  📱 Digital Logic
-*  📉 Discrete Structre
-*  ⚖️ Integrity and Anti-Corruption 
 
 
 
