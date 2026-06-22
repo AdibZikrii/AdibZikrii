@@ -49,8 +49,8 @@ About Me
 * 🔗 Database Programming [click here to see project & assignment](https://github.com/AdibZikrii/db-programming)
 * 🔗 Enterprise System Design & Modeling (WBL) [click here to see project & assignment](https://github.com/AdibZikrii/esdm)
 * 🔗 High Performance Data Processing [click here to see project & assignment](https://github.com/drshahizan/HPDP/tree/main/2526/assignment/A2/bdm/DuaTiga)
-* 🔗 Business Intelligence [click here to see project & assignment](https://github.com/AdibZikrii/AI)
-* 🔗 Special Topic in Data Engineering [click here to see project & assignment](https://github.com/AdibZikrii/AI)
+* 🔗 Business Intelligence [click here to see project & assignment](https://github.com/AdibZikrii/business-intellegence)
+* 🔗 Special Topic in Data Engineering [click here to see project & assignment](https://github.com/AdibZikrii/special-topic)
 
 
 
