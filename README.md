@@ -1,14 +1,7 @@
-
-
-Never back down  
-Never give up
-
 * 🌍  I'm from Terengganu
 * 👾  Feel free to see my other [Eportfolio](https://adibzikrii.github.io/)
 * ✉️  You can contact me at [zikriadib00@gmail.com](mailto:zikriadib00@gmail.com)
-* 🚀  I'm currently studying on [Universiti Teknologi Malaysia](http://https://www.utm.my/)
-* 🤝  Love to learn about Japan!
-* ⚡  Remember that Allah is always with us!
+* 🚀  I'm currently studying at [Universiti Teknologi Malaysia](http://https://www.utm.my/)
 
 📖Education
 -----------
