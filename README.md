@@ -1,10 +1,7 @@
 HI 👋
 ===========================
 
-どーも はじめまして
-----------
 
-![photo_2023-12-27_15-24-13(1)](https://github.com/AdibZikrii/AdibZikrii/assets/148741068/1ac6ac57-a24d-49e8-9494-a84e23ab9958)
 
 Never back down  
 Never give up
