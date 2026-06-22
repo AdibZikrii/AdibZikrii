@@ -13,14 +13,6 @@
   - Sarjana Muda Sains Komputer (Kejuruteraan Data) Dengan Kepujian | 2023-Now
 
 
-  
-
-📜Certificate
---------------
-* 🧫SPM 5A 4B (1A+ 3A 1A- 4B+)
-* 🧫Foundation CGPA 3.91
-* 🧫MUET 4.0
-
 
 
 
@@ -29,9 +21,6 @@
 
 ### Skills
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
 
 ### Socials
 
@@ -39,5 +28,3 @@
 
 
 <a href="http://www.github.com/AdibZikrii"><img src="https://github-readme-stats.vercel.app/api?username=AdibZikrii&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdibZikrii's GitHub stats" /></a>
-
-<a href="http://www.github.com/AdibZikrii"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AdibZikrii&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
