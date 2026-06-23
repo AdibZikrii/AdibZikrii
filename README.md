@@ -1,6 +1,4 @@
-# Hi there, I'm Ahmad Adib Zikri! 👋
-
-**Aspiring Data Engineer | Computer Science Student @ UTM**
+# Hi, My Name is Ahmad Adib Zikri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
 About Me
