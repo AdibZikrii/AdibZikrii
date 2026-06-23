@@ -1,4 +1,10 @@
-# Hi, My Name is Ahmad Adib Zikri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<div align="center">
+
+# Hi, My Name is Ahmad Adib Zikri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+**Aspiring Data Engineer | Computer Science Student @ UTM**
+
+</div>
 
 
 About Me
