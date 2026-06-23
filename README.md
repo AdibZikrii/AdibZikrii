@@ -1,4 +1,6 @@
-# HI, My Name is Ahmad Adib Zikri bin A.Mazlam 👋
+# Hi there, I'm Ahmad Adib Zikri! 👋
+
+**Aspiring Data Engineer | Computer Science Student @ UTM**
 
 
 About Me
