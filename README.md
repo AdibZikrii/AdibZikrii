@@ -2,8 +2,12 @@
 
 # Hi, My Name is Ahmad Adib Zikri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Aspiring Data Engineer | Computer Science Student @ UTM**
-
+**Computer Science Student @ UTM**
+<div align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/adibzikri27/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 </div>
 
 
